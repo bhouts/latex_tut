@@ -1,0 +1,33 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Creating a .tex File}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Preamble}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Environments}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Reserved Characters}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Title and Heading Information}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Additional Features}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Sections and Sub-Sections}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Sub-Sub-Sections}{subsection.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Body Text: Paragraphs and Context}{section.3}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Stylized text formatting}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Justifying text}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Some useful commands}{subsection.3.2}% 13
+\BOOKMARK [2][-]{subsection.3.3}{Mathematical Formulas}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.1}{In-Line Equations}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Display Equations}{subsection.3.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Symbols}{subsection.3.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.3.4}{Fractions}{subsection.3.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.3.5}{Superscripts and Subscripts}{subsection.3.3}% 19
+\BOOKMARK [2][-]{subsection.3.4}{Label, Cite, and Ref Commands}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.5}{Tables}{section.3}% 21
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Table vs Tabular}{subsection.3.5}% 22
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Tabular}{subsection.3.5}% 23
+\BOOKMARK [3][-]{subsubsection.3.5.3}{Table}{subsection.3.5}% 24
+\BOOKMARK [3][-]{subsubsection.3.5.4}{Placement for both Tables and Figures}{subsection.3.5}% 25
+\BOOKMARK [2][-]{subsection.3.6}{Figures}{section.3}% 26
+\BOOKMARK [1][-]{section.4}{How To: Acknowledgments}{}% 27
+\BOOKMARK [1][-]{section.5}{How To: References}{}% 28
+\BOOKMARK [2][-]{subsection.5.1}{biblatex}{section.5}% 29
+\BOOKMARK [3][-]{subsubsection.5.1.1}{.bib File}{subsection.5.1}% 30
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 31
+\BOOKMARK [1][-]{section.7}{Acknowledgements}{}% 32
+\BOOKMARK [1][-]{section*.2}{References}{}% 33
